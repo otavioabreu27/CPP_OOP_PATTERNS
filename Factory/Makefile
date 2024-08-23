@@ -5,10 +5,10 @@ CXX = g++
 CXXFLAGS = -std=c++14 -Wall -pthread
 
 # Caminho do arquivo de origem
-SRC = logger.cpp
+SRC = forma.cpp
 
 # Caminho do executável
-TARGET = $(BUILD_DIR)/singleton
+TARGET = $(BUILD_DIR)/factory
 
 # Regras de compilação
 $(TARGET): $(SRC)

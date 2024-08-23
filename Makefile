@@ -2,10 +2,10 @@
 CXX = g++
 
 # Flags de compilação
-CXXFLAGS = -std=c++11 -Wall -pthread
+CXXFLAGS = -std=c++14 -Wall -pthread
 
 # Diretórios de origem e de destino
-SRC_DIRS = Singleton
+SRC_DIRS = Singleton Factory
 BUILD_DIR = build
 
 # Alvo padrão, compilar todos os exemplos
