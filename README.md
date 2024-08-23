@@ -15,6 +15,6 @@ Com as aplicações devidamente compiladas utilize o comando:
 ### Padrões
 - [Singleton](https://github.com/otavioabreu27/CPP_OOP_PATTERNS/tree/main/Singleton)
 - [Factory](https://github.com/otavioabreu27/CPP_OOP_PATTERNS/tree/main/Factory)
-- Observer
+- [Observer](https://github.com/otavioabreu27/CPP_OOP_PATTERNS/tree/main/Observer)
 - Decorator
 - Strategy
