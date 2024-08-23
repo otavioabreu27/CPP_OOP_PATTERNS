@@ -10,4 +10,4 @@ Classe capaz de gerenciar observadores (registrar, desregistrar e notificar).
 ## Observador
 Entidade que deseja ser informada de mudanças no sujeito. Deve implementar a interface de atualização.
 
-![ExemploObserver](https://raw.githubusercontent.com/otavioabreu27/CPP_OOP_PATTERNS/main/media/ObserverExample.png)
+![ExemploObserver](https://github.com/otavioabreu27/CPP_OOP_PATTERNS/blob/main/media/ObserverExample.png)
