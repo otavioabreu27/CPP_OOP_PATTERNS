@@ -8,7 +8,7 @@ CXXFLAGS = -std=c++11 -Wall -pthread
 SRC = logger.cpp
 
 # Caminho do executável
-TARGET = $(BUILD_DIR)/logger
+TARGET = $(BUILD_DIR)/singleton
 
 # Regras de compilação
 $(TARGET): $(SRC)
