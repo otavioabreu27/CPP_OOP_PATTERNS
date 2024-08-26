@@ -5,7 +5,7 @@ CXX = g++
 CXXFLAGS = -std=c++14 -Wall -pthread
 
 # Diretórios de origem e de destino
-SRC_DIRS = Singleton Factory Observer
+SRC_DIRS = Singleton Factory Observer Decorator
 BUILD_DIR = build
 
 # Alvo padrão, compilar todos os exemplos
